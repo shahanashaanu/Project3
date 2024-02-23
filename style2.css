@@ -1,0 +1,213 @@
+.inbox{
+    /* background-color: aqua; */
+    height: 50px;
+    margin: 15px 0px;
+    text-align: center;
+}
+p1{
+    font-size: 10px;
+
+}
+.inbox1{
+    /* background-color: violet; */
+    height: 500px;
+    margin: 15px 0px;
+    text-align: center;
+}
+.p2{
+    color: white;
+    padding-top: 40px;
+}
+.spn{
+    font-weight: bold;
+}
+.line{
+    background-color:white;
+    height: 2px;
+    max-width: 320px;
+    margin: auto;
+}
+.book{
+    border: solid;
+    color:skyblue;
+    text-decoration: none;
+    padding: 5px;
+    margin-top: 20px;
+    display: inline-block;
+    background-color: white;
+}
+.inbox2{
+    /* background-color: aqua; */
+    height: 200px;
+    margin: 15px 0px;
+    text-align: center;
+}
+.h2{
+    text-align: center;
+}
+.p3{
+    text-align: center;
+}
+.see{
+    border: solid;
+    color:skyblue;
+    text-decoration: none;
+    padding: 5px;
+    margin-top: 20px;
+    display: inline-block;
+    margin-left: 50PX;
+}
+.inbox3{
+    /* background-color: violet; */
+    height: 300px;
+    margin: 15px 0px;
+    text-align: center; 
+    color: white;
+}
+.line1{
+    background-color:white;
+    height: 2px;
+    max-width: 100px;
+    text-align: center;
+    margin: auto;
+}
+.inbox4{
+    /* background-color: aqua; */
+    height: 300px;
+    margin: 15px 0px;
+    text-align: center;
+    color: white;
+}
+.inbox5{
+    /* background-color: violet; */
+    height: 30px;
+    margin: 15px 0px;
+    text-align: center;
+    font-size: 30px;
+}
+.inbox6{
+    /* background-color: aqua; */
+    height: 450px;
+    margin: 15px 0px;
+    text-align: center;
+    color: white;
+}
+.p4{
+    font-size: 40px;
+}
+.inbox7{
+    /* background-color: violet; */
+    height: 100px;
+    margin: 15px 0px;
+    text-align: center;
+    color: gray;
+}
+.bi{
+    padding-left: 30px;
+}
+.p5{
+    padding-top: 20px;
+}
+.p6{
+    color: skyblue;
+    text-decoration: underline;
+}
+.line2{
+    background-color:skyblue;
+}
+.sec{
+    background-color: white;
+    padding: 15px 0px;
+}
+.sec1{
+    background-color: skyblue;
+    padding: 15px 0px;
+}
+.sec2{
+    background-color: white;
+    padding: 15px 0px;
+}
+.sec3{
+    background-color: skyblue;
+    padding: 15px 0px;
+}
+.sec4{
+    background-color: black;
+    padding: 15px 0px;
+}
+.sec5{
+    background-color: white;
+    padding: 15px 0px;
+}
+.sec6{
+    background-color: black;
+    padding: 15px 0px;
+}
+.sec7{
+    background-color: white;
+    padding: 15px 0px;
+}
+.inbox8,.inbox9,.inbox10,.inbox11,.inbox12,.inbox13,.inbox14,.inbox15,.inbox16,.inbox17{
+    background-color:white;
+    min-height: 250px;
+    margin-top: 15px;
+}
+.inbox8{
+    background-image: url(men4-removebg-preview.png);
+    background-size: cover;
+    
+}
+.inbox9{
+    background-image: url(men5-removebg-preview.png);
+    background-size: cover;
+}
+.inbox10{
+    background-image: url(men6.jpg);
+    background-size: cover;
+}
+.inbox11{
+    background-image: url(wedding1.jpg);
+    background-size: cover;
+}
+.inbox12{
+    background-image: url(men7.jpg);
+    background-size: cover;
+}
+.inbox13{
+    background-image: url(men8.jpg);
+    background-size: cover;
+}
+.inbox14{
+        background-image: url(wedding2.webp);
+        background-size: cover;
+    }
+ .inbox15{
+        background-image: url(men9.avif);
+        background-size: cover;
+    }
+.inbox16{
+    background-image: url(wedding3.jpg);
+    background-size: cover;
+}
+.inbox17{
+    background-image: url(wedding4.jpg);
+    background-size: cover;
+}
+.pic{
+    border: 1px solid white;
+    border-radius: 50%;
+    padding: 5px;
+    height: 100px;
+}
+
+.herobg{
+    height: 100%;
+}
+
+@media(max-width:468px){
+    .herobg{
+        width: 100%;
+        min-height: auto;
+    }
+    
+}
