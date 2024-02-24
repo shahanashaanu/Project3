@@ -59,7 +59,7 @@ p1{
 }
 .inbox3{
     /* background-color: violet; */
-    height: 300px;
+    min-height: 300px;
     margin: 15px 0px;
     text-align: center; 
     color: white;
